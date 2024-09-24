@@ -1,3 +1,4 @@
+// this is a generalized solution for any n consecutive integers and just the first n integers
 class Solution{
 	public static int search(int []nums){
 		int i=0,j=nums.length-1;
